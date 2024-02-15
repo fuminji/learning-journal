@@ -10,7 +10,7 @@
 
 .container {
     max-width: 900px;
-    min-width: 480px;
+    min-width: 400px;
     margin: 0 auto;
 
 }
@@ -176,3 +176,4 @@ footer {
         margin-left: 1.5em;
     }
 }
+
